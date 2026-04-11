@@ -14,7 +14,3 @@ I am an aspiring Cloud Engineer with a strong passion for cloud technologies and
 Current Focus: 
 
 I am actively working on hands-on projects that involve deploying and managing cloud infrastructure and services across various platforms. This practical experience allows me to apply theoretical knowledge to real-world scenarios, including provisioning resources, configuring cloud environments, implementing security best practices, and optimizing performance and cost efficiency.               
-
-### Socials
-                
-                <p align="left"> <a href="https://www.linkedin.com/in/jc-bergado" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
