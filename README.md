@@ -8,6 +8,7 @@ I am an aspiring Cloud Engineer with a strong passion for cloud technologies and
 
 *   🌍  I'm based in Florida
 *   🧠  I'm currently learning AWS Cloud services, Kubernets, Python and Linux
+*   [Linkedin](www.linkedin.com/in/jc-bergado)
 <p align="left">
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
                   </p>
