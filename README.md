@@ -4,6 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Cloud Engineer
 -----------------------
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 I am an aspiring Cloud Engineer with a strong passion for cloud technologies and infrastructure. I am deeply committed to continuous learning and professional development in this rapidly evolving field. I am dedicated to excelling as a cloud engineer by staying current with industry best practices, pursuing relevant certifications, and gaining hands-on experience with real-world cloud solutions. My commitment extends beyond technical knowledge—I aim to develop strong problem-solving abilities, collaborate effectively with cross-functional teams, and deliver scalable, secure, and cost-effective cloud solutions that drive business value.
 
 *   🌍  I'm based in Florida
